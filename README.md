@@ -25,4 +25,4 @@
 * 控制台（按<code>Alt</code> + <code>`</code>显示，再次按下或执行命令后自动隐藏）
 
 ### 控制台
-(待补充)
+[Commands.md](Commands.md)
