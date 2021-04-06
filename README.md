@@ -1,4 +1,5 @@
 # MCBBS-ManageExtender
+MCBBS-ManageExtender即MCBBS管理增强脚本，或者叫MCBBS-ModeratorExtender也可以。
 
 ## 简介
 该脚本可以为MCBBS的版主管理面板提供便利功能。非管理人员使用这个脚本的话体验大概会很差。
